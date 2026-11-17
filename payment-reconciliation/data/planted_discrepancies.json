@@ -1,0 +1,28 @@
+{
+  "reconciliation_period": "2026-11-01..2026-11-30",
+  "next_month_transaction_id": "TXN-100158",
+  "other_boundary_transaction_ids": [
+    "TXN-100156",
+    "TXN-100157"
+  ],
+  "rounding_transaction_ids": [
+    "TXN-100011",
+    "TXN-100012",
+    "TXN-100037",
+    "TXN-100043",
+    "TXN-100044",
+    "TXN-100052",
+    "TXN-100088",
+    "TXN-100095",
+    "TXN-100110",
+    "TXN-100111",
+    "TXN-100123",
+    "TXN-100133"
+  ],
+  "duplicate_transaction_id": "TXN-100062",
+  "duplicate_bank_entry_id": "BE-000073",
+  "orphan_refund_id": "RFD-200018",
+  "missing_in_bank_id": "TXN-100045",
+  "amount_mismatch_id": "TXN-100079",
+  "missing_in_ledger_transaction_id": "TXN-777001"
+}
